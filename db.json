@@ -5,7 +5,7 @@
       "id": 1,
       "pname": "Sweatshirt",
       "description": "Covernat Unisex Arch Logo Sweatshirt Ecru", 
-      "category": "clothing",
+      "category": "fashion",
       "price": "999",
       "images": "https://i.ibb.co/W3WR3zr/sweatshirt1.jpg",
       "stockItems": ""
@@ -14,7 +14,7 @@
       "id": 2,
       "pname": "White Top",
       "description": "blouses and shirts. Take on the timeless allure of a simply chic blouse", 
-      "category": "clothing",
+      "category": "fashion",
       "price": "699",
       "images": "https://i.ibb.co/ZmtJMKY/c070f54637822e893105ea15bf9b1869.jpg",
       "stockItems": ""
@@ -79,7 +79,7 @@
       "description": "Demin Jeans - straight fit", 
       "category": "fashion",
       "price": "1999",
-      "images": "https://i.ibb.co/CQH16J2/69f12e733551f7126f66fd9b64f4ca3e.jpg",
+      "images": "https://i.ibb.co/xqknD7Z/da4a598f3774d05f697f54de5b627f8d.jpg",
       "stockItems": ""
     },
     {
@@ -124,7 +124,7 @@
       "description": "Light-Blue at flared Jeans", 
       "category": "fashion",
       "price": "1099",
-      "images": "https://i.ibb.co/v4XjGV6/9112f629cb9aa3fa7274157038f65c66.jpg",
+      "images": "https://i.ibb.co/CQH16J2/69f12e733551f7126f66fd9b64f4ca3e.jpg",
       "stockItems": ""
     },
     {

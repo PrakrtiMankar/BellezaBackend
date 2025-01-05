@@ -7,7 +7,7 @@
       "description": "Covernat Unisex Arch Logo Sweatshirt Ecru", 
       "category": "clothing",
       "price": "999",
-      "image": "https://i.ibb.co/W3WR3zr/sweatshirt1.jpg",
+      "images": "https://i.ibb.co/W3WR3zr/sweatshirt1.jpg",
       "stockItems": ""
     },
     {
@@ -75,11 +75,11 @@
     },
     {
       "id": 8,
-      "pname": "Gold Necklace",
-      "description": "bubble letter chain gold plated brass", 
-      "category": "luxury",
-      "price": "8999",
-      "images": "https://i.ibb.co/sy9QKvn/9454e40b3d941b1826a5b99a71bc2000.jpg",
+      "pname": "Straight Jeans",
+      "description": "Demin Jeans - straight fit", 
+      "category": "fashion",
+      "price": "1999",
+      "images": "https://i.ibb.co/CQH16J2/69f12e733551f7126f66fd9b64f4ca3e.jpg",
       "stockItems": ""
     },
     {
@@ -88,7 +88,7 @@
       "description": "bubble letter chain gold plated brass", 
       "category": "luxury",
       "price": "8999",
-      "images": "https://i.ibb.co/Htj1hVz/1d9355c2ade5cfcee05d24f598b015cb.jpg",
+      "images": "https://i.ibb.co/P9PmjgM/3fbfbcbc93c53e4dea08c0c03200ce56.jpg",
       "stockItems": ""
     },
     {
@@ -97,7 +97,7 @@
       "description": "Asymmetric Hem Slit Button Deco Skirt", 
       "category": "fashion",
       "price": "8999",
-      "images": "https://i.ibb.co/P9PmjgM/3fbfbcbc93c53e4dea08c0c03200ce56.jpg",
+      "images": "https://i.ibb.co/Htj1hVz/1d9355c2ade5cfcee05d24f598b015cb.jpg",
       "stockItems": ""
     },
     {
@@ -214,7 +214,7 @@
       "description": "Poremizing Clay Stick Mask", 
       "category": "skincare",
       "price": "599",
-      "images": "https://i.ibb.co/pRdrJZf/386f882029aaf052f9ba969219c4631b.jpg",
+      "images": "https://i.ibb.co/h8gnYBz/3f69cff02c48a255271f7088d9d2aaa3.jpg",
       "stockItems": ""
     },
     {

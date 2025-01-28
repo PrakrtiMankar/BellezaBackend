@@ -1,10 +1,60 @@
 {
-  "users": [],
+  "users": [
+    {
+      "fullname": "Prakrti Mankar",
+      "username": "prakrti",
+      "email": "p@gmail.com",
+      "password": "@p",
+      "id": 1
+    },
+    {
+      "fullname": "user one",
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "@user1",
+      "id": 2
+    },
+    {
+      "fullname": "Prakrti Mankar",
+      "username": "prakrti",
+      "email": "p@gmail.com",
+      "password": "@p",
+      "id": 3
+    },
+    {
+      "fullname": "Aastha ",
+      "username": "Aastha",
+      "email": "aastha@gmail.com",
+      "password": "asdfgh",
+      "id": 4
+    },
+    {
+      "fullname": "User Three",
+      "username": "user3",
+      "email": "user3@gmail.com",
+      "password": "user3@",
+      "id": 5
+    },
+    {
+      "fullname": "new User",
+      "username": "newUser",
+      "email": "new@gmail.com",
+      "password": "@user",
+      "id": 6
+    },
+    {
+      "fullname": "k",
+      "username": "k",
+      "email": "k@gmail.com",
+      "password": "k123",
+      "id": 7
+    }
+  ],
   "products": [
     {
       "id": 1,
       "pname": "Sweatshirt",
-      "description": "Covernat Unisex Arch Logo Sweatshirt Ecru", 
+      "description": "Covernat Unisex Arch Logo Sweatshirt Ecru",
       "category": "fashion",
       "price": "999",
       "images": "https://i.ibb.co/W3WR3zr/sweatshirt1.jpg",
@@ -13,7 +63,7 @@
     {
       "id": 2,
       "pname": "White Top",
-      "description": "blouses and shirts. Take on the timeless allure of a simply chic blouse", 
+      "description": "blouses and shirts. Take on the timeless allure of a simply chic blouse",
       "category": "fashion",
       "price": "699",
       "images": "https://i.ibb.co/ZmtJMKY/c070f54637822e893105ea15bf9b1869.jpg",
@@ -22,7 +72,7 @@
     {
       "id": 3,
       "pname": "Fashion Googles",
-      "description": "Pink, Pale Gold - Miu Miu Women's Sunglasses", 
+      "description": "Pink, Pale Gold - Miu Miu Women's Sunglasses",
       "category": "accessories",
       "price": "1099",
       "images": "https://i.ibb.co/KxvppzR/223ec4913b96ab979785b52a1a5d4ebf.jpg",
@@ -31,7 +81,7 @@
     {
       "id": 4,
       "pname": "Mustard wallet",
-      "description": "wallet for women", 
+      "description": "wallet for women",
       "category": "accessories",
       "price": "1099",
       "images": "https://i.ibb.co/xXjFphK/f4f4fc4d7bee346a05e08621c2e19f3f.jpg",
@@ -40,7 +90,7 @@
     {
       "id": 4,
       "pname": "Heart Bag",
-      "description": "Pink/Red delicate fashionable handbag", 
+      "description": "Pink/Red delicate fashionable handbag",
       "category": "accessories",
       "price": "1100",
       "images": "https://i.ibb.co/BCx4KCk/44c42871078a42795bb6947625d7e0ca.jpg",
@@ -49,7 +99,7 @@
     {
       "id": 5,
       "pname": "Chanel Perfume",
-      "description": "Fregrance - Chance Eau Tendre Eau de Toilette", 
+      "description": "Fregrance - Chance Eau Tendre Eau de Toilette",
       "category": "luxury",
       "price": "4000",
       "images": "https://i.ibb.co/L92nB2Y/cfa9b2a4898f186666ee1c7c87d56a36.jpg",
@@ -58,7 +108,7 @@
     {
       "id": 6,
       "pname": "White Heels",
-      "description": "open square toe heels Peyton Mules", 
+      "description": "open square toe heels Peyton Mules",
       "category": "accessories",
       "price": "779",
       "images": "https://i.ibb.co/K6Q74ZY/03ec9297e03c9e97ba902692e4422ef5.jpg",
@@ -67,7 +117,7 @@
     {
       "id": 7,
       "pname": "Yellow Eyeshadow",
-      "description": "summer's biggest makeup trend", 
+      "description": "summer's biggest makeup trend",
       "category": "beauty",
       "price": "559",
       "images": "https://i.ibb.co/sy9QKvn/9454e40b3d941b1826a5b99a71bc2000.jpg",
@@ -76,7 +126,7 @@
     {
       "id": 8,
       "pname": "Straight Jeans",
-      "description": "Demin Jeans - straight fit", 
+      "description": "Demin Jeans - straight fit",
       "category": "fashion",
       "price": "1999",
       "images": "https://i.ibb.co/xqknD7Z/da4a598f3774d05f697f54de5b627f8d.jpg",
@@ -85,7 +135,7 @@
     {
       "id": 9,
       "pname": "Gold Necklace",
-      "description": "bubble letter chain gold plated brass", 
+      "description": "bubble letter chain gold plated brass",
       "category": "luxury",
       "price": "8999",
       "images": "https://i.ibb.co/P9PmjgM/3fbfbcbc93c53e4dea08c0c03200ce56.jpg",
@@ -94,7 +144,7 @@
     {
       "id": 10,
       "pname": "Slit Skirt",
-      "description": "Asymmetric Hem Slit Button Deco Skirt", 
+      "description": "Asymmetric Hem Slit Button Deco Skirt",
       "category": "fashion",
       "price": "8999",
       "images": "https://i.ibb.co/Htj1hVz/1d9355c2ade5cfcee05d24f598b015cb.jpg",
@@ -103,7 +153,7 @@
     {
       "id": 11,
       "pname": "White Jacket",
-      "description": "Belted workwear wool blend jacket", 
+      "description": "Belted workwear wool blend jacket",
       "category": "fashion",
       "price": "1299",
       "images": "https://i.ibb.co/Bj2wgd8/8f040f65312cd4854614bb58fd4c87b2.jpg",
@@ -112,7 +162,7 @@
     {
       "id": 12,
       "pname": "Karie Jeans",
-      "description": "Relaxed Jeans in Dark-Blue at Nordstrom, size medium", 
+      "description": "Relaxed Jeans in Dark-Blue at Nordstrom, size medium",
       "category": "fashion",
       "price": "1300",
       "images": "https://i.ibb.co/v4XjGV6/9112f629cb9aa3fa7274157038f65c66.jpg",
@@ -121,7 +171,7 @@
     {
       "id": 13,
       "pname": "Flared Jeans",
-      "description": "Light-Blue at flared Jeans", 
+      "description": "Light-Blue at flared Jeans",
       "category": "fashion",
       "price": "1099",
       "images": "https://i.ibb.co/CQH16J2/69f12e733551f7126f66fd9b64f4ca3e.jpg",
@@ -130,7 +180,7 @@
     {
       "id": 14,
       "pname": "Smoothing Serum",
-      "description": "Bakuchiol retinol alternative", 
+      "description": "Bakuchiol retinol alternative",
       "category": "skincare",
       "price": "1500",
       "images": "https://i.ibb.co/rZdtpLJ/43d3692d2b631d0ddcd25ddd96f41f7a.jpg",
@@ -139,7 +189,7 @@
     {
       "id": 15,
       "pname": "Glycolic Acid 7%",
-      "description": "The Ordinary Toning Solution pH-3.6", 
+      "description": "The Ordinary Toning Solution pH-3.6",
       "category": "skincare",
       "price": "1700",
       "images": "https://i.ibb.co/x1DL6Cn/818c0c5c5813de7fd80982e76a73d19d.jpg",
@@ -148,7 +198,7 @@
     {
       "id": 16,
       "pname": "Gold Earrings",
-      "description": "Earrings / Heart Golden Earrings Stainless Steel", 
+      "description": "Earrings / Heart Golden Earrings Stainless Steel",
       "category": "luxury",
       "price": "3399",
       "images": "https://i.ibb.co/17bnZsh/f48420fb5c6404c1e6de57506005110a.jpg",
@@ -157,7 +207,7 @@
     {
       "id": 17,
       "pname": "Lipstick",
-      "description": "Yves Saint Laurent Rouge Volupte Shine", 
+      "description": "Yves Saint Laurent Rouge Volupte Shine",
       "category": "beauty",
       "price": "4099",
       "images": "https://i.ibb.co/0hySmXR/348fe334f0081a90858c5ac87ee75b19.jpg",
@@ -166,7 +216,7 @@
     {
       "id": 18,
       "pname": "Chanel Lip Balm",
-      "description": "N॰1 DE CHANEL lip and cheek balm", 
+      "description": "N॰1 DE CHANEL lip and cheek balm",
       "category": "beauty",
       "price": "4099",
       "images": "https://i.ibb.co/hWwFTPV/fa680b88c2185bf9b743e85bd12db9f0.jpg",
@@ -175,7 +225,7 @@
     {
       "id": 19,
       "pname": "Velvet Hair Bow",
-      "description": "BLack Long Tail French Barrette Hair Accessory", 
+      "description": "BLack Long Tail French Barrette Hair Accessory",
       "category": "beauty",
       "price": "589",
       "images": "https://i.pinimg.com/736x/c5/f4/c5/c5f4c54a3bd00385df8214417850b315.jpg",
@@ -184,7 +234,7 @@
     {
       "id": 20,
       "pname": "Luxury Watch",
-      "description": "Eternal 22 Bellagio - Waldor & Co. Watches", 
+      "description": "Eternal 22 Bellagio - Waldor & Co. Watches",
       "category": "luxury",
       "price": "5999",
       "images": "https://i.ibb.co/LnzZWyC/cc341e12228021d1ef803682adf0baae.jpg",
@@ -193,7 +243,7 @@
     {
       "id": 21,
       "pname": "Chanel Perfum",
-      "description": "N॰5 Chanel Paris Eau De Parfum", 
+      "description": "N॰5 Chanel Paris Eau De Parfum",
       "category": "luxury",
       "price": "6899",
       "images": "https://i.ibb.co/hFtc543/3068433c5201f7e45675002f77c6dba4.jpg",
@@ -202,7 +252,7 @@
     {
       "id": 22,
       "pname": "Vaseline Body Oil",
-      "description": "Cocoa Radiant Body Oil Intensive Care", 
+      "description": "Cocoa Radiant Body Oil Intensive Care",
       "category": "skincare",
       "price": "599",
       "images": "https://i.ibb.co/pRdrJZf/386f882029aaf052f9ba969219c4631b.jpg",
@@ -211,7 +261,7 @@
     {
       "id": 23,
       "pname": "Centella Clay Mask",
-      "description": "Poremizing Clay Stick Mask", 
+      "description": "Poremizing Clay Stick Mask",
       "category": "skincare",
       "price": "599",
       "images": "https://i.ibb.co/h8gnYBz/3f69cff02c48a255271f7088d9d2aaa3.jpg",
@@ -220,7 +270,7 @@
     {
       "id": 24,
       "pname": "Healing Lotion",
-      "description": "Rhode Body Loation", 
+      "description": "Rhode Body Loation",
       "category": "skincare",
       "price": "599",
       "images": "https://i.ibb.co/Ssn0pGs/6df4dc9275b66dcbc943f75d3822f20b.jpg",
@@ -229,16 +279,16 @@
     {
       "id": 25,
       "pname": "Laneige Lip care",
-      "description": "Vanilla Lip Balm", 
+      "description": "Vanilla Lip Balm",
       "category": "skincare",
       "price": "1000",
       "images": "https://i.ibb.co/Rgmr3nt/a4f4c03eaa4294f048994500f0c33ad6.jpg",
       "stockItems": ""
-    }, 
+    },
     {
       "id": 26,
       "pname": "Niacinamide Serum",
-      "description": "Glow recipe - Watermelon niacinamide dew drops", 
+      "description": "Glow recipe - Watermelon niacinamide dew drops",
       "category": "skincare",
       "price": "1000",
       "images": "https://i.ibb.co/SR7hgdK/40be26933218f4283a11fcf725e32809.jpg",
